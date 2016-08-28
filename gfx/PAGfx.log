@@ -1,0 +1,51 @@
+PAGfx Converter v0.10 -- by Mollusk -- resurrected by fincs -- forum.palib.info
+If you have suggestions, problems or anything please come to the PAlib forums
+
+Converting PAGfx.ini
+Transparent Color: Magenta
+
+14 sprites:
+  movetab: 256colors, 32x32, Pal: icon_Pal, -> movetab_Sprite
+  tbbar: 256colors, 32x96, Pal: icon_Pal, -> tbbar_Sprite
+  slider: 256colors, 8x8, Pal: icon_Pal, -> slider_Sprite
+  colorsquare: 256colors, 16x160, Pal: colorsquare_Pal, -> colorsquare_Sprite
+  fbscroll: 256colors, 8x16, Pal: fbscroll_Pal, -> fbscroll_Sprite
+  sliders: 256colors, 16x64, Pal: sliders_Pal, -> sliders_Sprite
+  checkbox: 256colors, 16x32, Pal: checkbox_Pal, -> checkbox_Sprite
+  mediabar: 256colors, 64x64, Pal: mediabar_Pal, -> mediabar_Sprite
+  Stylus_curs: 256colors, 16x160, Pal: Stylus_curs_Pal, -> Stylus_curs_Sprite
+  toolbox: 256colors, 16x336, Pal: toolbox_Pal, -> toolbox_Sprite
+  fbicons: 256colors, 32x160, Pal: fbicons_Pal, -> fbicons_Sprite
+  fbiconssmall: 256colors, 8x48, Pal: fbiconssmall_Pal, -> fbiconssmall_Sprite
+  layerbutton: 256colors, 64x64, Pal: layerbutton_Pal, -> layerbutton_Sprite
+  blankbutton: 256colors, 32x16, Pal: blankbutton_Pal, -> blankbutton_Sprite
+
+7 backgrounds:
+  maininterface : EasyBg, 256x192, Pal: maininterface_Pal, 85 tiles -> maininterface_Tiles and maininterface_Map
+  bar : EasyBg, 256x256, Pal: bar_Pal, 3 tiles -> bar_Tiles and bar_Map
+  modernlarge : 8bitFont, 512x128, Pal: modernlarge_Pal, 197 tiles -> modernlarge_Tiles and modernlarge_Map
+  lucidasans : 8bitFont, 512x128, Pal: lucidasans_Pal, 100 tiles -> lucidasans_Tiles and lucidasans_Map
+  _256colormenu : EasyBg, 256x192, Pal: _256colormenu_Pal, 43 tiles -> _256colormenu_Tiles and _256colormenu_Map
+  lucidasans1bit : 16cFont, 512x128, Pal: lucidasans1bit_Pal, 100 tiles -> lucidasans1bit_Tiles and lucidasans1bit_Map
+  modernlarge1bit : 16cFont, 512x128, Pal: modernlarge1bit_Pal, 197 tiles -> modernlarge1bit_Tiles and modernlarge1bit_Map
+
+19 palettes:
+  icon_Pal, 8 colors
+  colorsquare_Pal, 11 colors
+  fbscroll_Pal, 2 colors
+  sliders_Pal, 5 colors
+  checkbox_Pal, 6 colors
+  mediabar_Pal, 6 colors
+  Stylus_curs_Pal, 12 colors
+  toolbox_Pal, 31 colors
+  fbicons_Pal, 80 colors
+  fbiconssmall_Pal, 47 colors
+  layerbutton_Pal, 4 colors
+  blankbutton_Pal, 3 colors
+  maininterface_Pal, 39 colors
+  bar_Pal, 2 colors
+  _256colormenu_Pal, 37 colors
+
+Converted in 0 minutes and 0 seconds
+
+Finished!
